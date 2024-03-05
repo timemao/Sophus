@@ -1,0 +1,6 @@
+安装过程
+https://blog.csdn.net/caiqidong321/article/details/128916566
+
+q: 无release/sophus.lib问题
+s1 改shared为static库
+s2 windows生成lib，https://blog.csdn.net/caz28/article/details/134947242
