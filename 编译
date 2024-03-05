@@ -4,3 +4,8 @@ https://blog.csdn.net/caiqidong321/article/details/128916566
 q: 无release/sophus.lib问题
 s1 改shared为static库
 s2 windows生成lib，https://blog.csdn.net/caz28/article/details/134947242
+
+windows install
+https://blog.csdn.net/weixin_43376501/article/details/131833284
+
+cmake --build . --config Release --target install
